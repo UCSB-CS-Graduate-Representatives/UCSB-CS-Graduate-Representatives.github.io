@@ -1,0 +1,11 @@
+# Site settings
+title: UCSB CS Graduate Representatives 
+email: greps@cs.ucsb.edu
+description: > # this means to ignore newlines until "baseurl:"
+    University of California, Santa Barbara (UCSB) Computer Science graduate student representatives' webpage
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username: UCSB-CS-Graduate-Representatives 
+
+# Build settings
+markdown: kramdown

@@ -9,4 +9,7 @@ positions:
 description: >
   Hi, my name is Emilie and this is my description
 webpage: www.cs.ucsb.edu/~emilie/
+
+layout: profile
+title: my personal webpage
 ---

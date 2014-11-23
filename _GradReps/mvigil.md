@@ -7,4 +7,7 @@ positions:
 description: >
   Hi, my name is Morgan and this is my description
 webpage: www.cs.ucsb.edu/~mvigil/
+
+layout: profile
+title: my personal webpage
 ---

@@ -7,4 +7,7 @@ positions:
 description: >
   Hi, my name is Veronika and this is my description
 webpage: www.cs.ucsb.edu/~veronika/
+
+layout: profile
+title: my personal webpage
 ---

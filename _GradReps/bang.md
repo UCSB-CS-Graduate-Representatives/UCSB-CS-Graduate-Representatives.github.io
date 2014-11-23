@@ -7,4 +7,7 @@ positions:
 description: >
   Hi, my name is Lucas and this is my description
 webpage: www.cs.ucsb.edu/~bang/
+
+layout: profile
+title: my personal webpage title
 ---

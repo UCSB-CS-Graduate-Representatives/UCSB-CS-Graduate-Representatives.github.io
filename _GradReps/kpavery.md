@@ -9,4 +9,7 @@ positions:
 description: >
   Hi, my name is Keith and this is my description
 webpage: www.cs.ucsb.edu/~kpavery/
+
+layout: profile
+title: my personal webpage
 ---

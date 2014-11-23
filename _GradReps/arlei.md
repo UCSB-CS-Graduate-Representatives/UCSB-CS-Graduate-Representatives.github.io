@@ -9,4 +9,7 @@ positions:
 description: >
   Hi, my name is Arlei and this is my description
 webpage: www.cs.ucsb.edu/~arlei/
+
+layout: profile
+title: my personal webpage
 ---

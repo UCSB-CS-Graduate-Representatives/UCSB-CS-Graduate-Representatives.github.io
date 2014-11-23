@@ -1,6 +1,7 @@
 ---
 name: Victor Amelkin
 email: victor@cs.ucsb.edu
+picture:
 positions:
   - position: GSA Rep
     link: /positions#gsa_representatives

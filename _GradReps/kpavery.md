@@ -1,6 +1,7 @@
 ---
 name: Keith Avery
 email: kpavery@cs.ucsb.edu
+picture:
 positions:
   - position: Secretary
     link: /positions#commitee_executives

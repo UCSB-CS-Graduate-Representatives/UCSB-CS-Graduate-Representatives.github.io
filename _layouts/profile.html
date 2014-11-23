@@ -9,9 +9,11 @@ layout: default
         <h2>{{ page.title }}</h2>
         {% endif %}
     {% if page.positions %}
-    {% for position in page.positions %}
-        <p class="post-meta">{{ position.position }}</p>
-    {% endfor %}
+        <p class="post-meta">
+            {% for position in page.positions %}
+                {{ position.position }}{% if forloop.last == false %}, {% endif %}
+            {% endfor %}
+        </p>
     {% endif %}
   </header>
 

@@ -8,6 +8,6 @@ description: >
   Hi, my name is Kevin and this is my description
 webpage: www.cs.ucsb.edu/~kevinbo/
 
-layout:profile
+layout: profile
 title: my personal webpage
 ---

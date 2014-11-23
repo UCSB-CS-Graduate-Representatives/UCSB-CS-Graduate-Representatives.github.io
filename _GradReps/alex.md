@@ -8,4 +8,7 @@ positions:
 description: >
   Hi, my name is Alex and this is my description
 webpage: www.cs.ucsb.edu/people/graduate/pucher
+
+layout: profile
+title: my personal webpage
 ---

@@ -22,4 +22,6 @@ navigation:
       url: /contact/ 
           
 collections:
-    - GradReps
+    GradReps:
+        output: true
+        permalink: /gradrep/:path/

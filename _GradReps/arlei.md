@@ -8,6 +8,6 @@ positions:
   - position: GSA Rep
     link: /positions#gsa_representatives
 description: > 
-  Ph.D student, research assistant, doing politics on my free time.
+  Ph.D student, research assistant, doing a bit of politics too.
 webpage: www.cs.ucsb.edu/~arlei/
 ---

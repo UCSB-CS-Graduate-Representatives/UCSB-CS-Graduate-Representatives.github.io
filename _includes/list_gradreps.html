@@ -5,7 +5,11 @@
     {% else %}{{ gradrep.name }}{% endif %}
     <ul>
         {% for position in gradrep.positions %}
-            <li>{{ position.position }}</li>
+            {% if position.link %}
+                <li><a href="{{ position.link }}">{{ position.position }}</a></li>
+            {% else %}
+                <li>{{ position.position }}</li>
+            {% endif %}
         {% endfor %}
     </ul>
     {% if gradrep.description %}

@@ -8,12 +8,13 @@ positions:
   - position: Facilities Committee
     link: /positions#facilities_committee
 description: >
-  Hi, my name is Haraldur and this is my description
+    Ph.D. student since June 2014. Runner, climber, hiker, thinker, tinker, speaker, and part-time sleeper.
 webpage: www.cs.ucsb.edu/~hth
 
 layout: profile
-title: Haraldur
+title:
 ---
 
+Hi all! I'm a first year Ph.D. student here in sunny Santa Barbara and very pleased to serve as a graduate representative for the CS department. This is my first of hopefully many years of serving as a representative, and I've a couple of ideas I want to see through to make UCSB a more pleasant place for graduate school (as crazy as that sounds).
 
-Hi all, this is my profile page. It talks all about me, and me, and me.
+I am being advised by Professor Ambuj Singh and working in collaboration with the Brain Imaging Center, studying how brain connectivity (the white stuff in your brain) can change -- within an indivdual, between individuals, and between groups of patients. Previously, I worked at Nox Medical where I studied how sleep can go awry.

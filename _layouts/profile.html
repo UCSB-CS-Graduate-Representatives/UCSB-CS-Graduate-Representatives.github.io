@@ -15,8 +15,13 @@ layout: default
             {% endfor %}
         </p>
     {% endif %}
+    <a href='http://{{page.webpage}}'>{{page.webpage}}</a>
+    <h5>{{page.email}}</h5>
   </header>
 
+  {% if page.picture %}
+      <img src="{{page.picture}}" name="picture" alt="photo" width="200" align="right" border="0" height="200">
+  {% endif %}
   <article class="post-content">
       {{ page.description }}
       <br><br>

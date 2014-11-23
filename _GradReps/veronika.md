@@ -1,6 +1,7 @@
 ---
 name: Veronika Strnadova
 email: veronika@cs.ucsb.edu
+picture:
 positions:
   - position: Undergraduate Affairs Committee
     link: /positions#undergrad_affairs_committee

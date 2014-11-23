@@ -1,6 +1,9 @@
 <h2> Graduate Representatives </h2>
 
 <ul>{% for gradrep in site.GradReps %}
+    {% if gradrep.picture %}
+       	<img src="{{gradrep.picture}}" name="picture" alt="photo" width="150" align="right" border="0" height="150">
+    {% endif %}
     <li> {% if gradrep.email %}<a href="mailto:{{ gradrep.email }}">{{ gradrep.name }}</a>
     {% else %}{{ gradrep.name }}{% endif %}
     <ul>
@@ -16,5 +19,7 @@
     <p> {{ gradrep.description }} </p>
     {% endif %}
     </li>
+    <br>
+    <br>
 {% endfor %}
 </ul>

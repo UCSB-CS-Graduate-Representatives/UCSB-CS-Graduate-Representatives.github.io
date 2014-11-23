@@ -1,6 +1,7 @@
 ---
 name: Kevin Borgolte
 email: kevinbo@cs.ucsb.edu
+picture: 
 positions:
   - position: Recruitment Committee
     link: /positions#recruitment_committee

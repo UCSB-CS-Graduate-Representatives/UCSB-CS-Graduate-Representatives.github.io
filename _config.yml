@@ -6,6 +6,20 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username: UCSB-CS-Graduate-Representatives 
+permalink: pretty
 
 # Build settings
 markdown: kramdown
+
+
+# Navigation toolbar:
+navigation:
+    - text: What we do
+      url: /what-we-do/
+    - text: Who we are
+      url: /who-we-are/
+    - text: Contact us
+      url: /contact/ 
+          
+collections:
+    - GradReps

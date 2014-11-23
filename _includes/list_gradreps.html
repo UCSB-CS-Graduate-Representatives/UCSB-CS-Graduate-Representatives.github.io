@@ -1,0 +1,16 @@
+<h2> Graduate Representatives </h2>
+
+<ul>{% for gradrep in site.GradReps %}
+    <li> {% if gradrep.email %}<a href="mailto:{{ gradrep.email }}">{{ gradrep.name }}</a>
+    {% else %}{{ gradrep.name }}{% endif %}
+    <ul>
+        {% for position in gradrep.positions %}
+            <li>{{ position.position }}</li>
+        {% endfor %}
+    </ul>
+    {% if gradrep.description %}
+    <p> {{ gradrep.description }} </p>
+    {% endif %}
+    </li>
+{% endfor %}
+</ul>

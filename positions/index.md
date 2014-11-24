@@ -44,4 +44,5 @@ The student representative to the Public Relations Committee attends meetings co
 
 <h2 id="undergrad_affairs_committee">Undergraduate Affairs Committee</h2>
 
-TODO
+The Undergraduate Affairs Committee monitors and proposes changes to the undergraduate programs. This committee also monitors the undergraduate enrollment and develops policies for ensuring a healthy level of undergraduate enrollment in the department. It focuses on advising, events, and anything else that will enhance the experience and learning of our undergraduate students. The graduate student representative on this committee helps steer and plan the focus of events such as the CS Array of Talks and provides input on undergraduate advising and undergraduate enrollment.
+

@@ -1,6 +1,6 @@
 ---
 name: Arlei Silva
-email: arlei@cs.ucsb.edu
+email: arlei [at] cs.ucsb.edu
 picture: http://www.cs.ucsb.edu/~arlei/images/photo.jpg
 positions:
   - position: President

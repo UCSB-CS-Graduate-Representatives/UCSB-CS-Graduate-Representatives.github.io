@@ -1,6 +1,6 @@
 ---
 name: Keith Avery
-email: kpavery@cs.ucsb.edu
+email: kpavery [at] cs.ucsb.edu
 picture: https://www.cs.ucsb.edu/~kpavery/headshot-square.jpg
 positions:
   - position: Secretary

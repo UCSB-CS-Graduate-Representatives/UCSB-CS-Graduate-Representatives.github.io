@@ -1,6 +1,6 @@
 ---
 name: Victor Amelkin
-email: victor+gsa@cs.ucsb.edu (PGP key 0x1265C57A)
+email: victor+gsa [at] cs.ucsb.edu (PGP key 0x1265C57A)
 picture: http://cs.ucsb.edu/~victor/img/avatar-150x150.jpg
 positions:
   - position: GSA Rep

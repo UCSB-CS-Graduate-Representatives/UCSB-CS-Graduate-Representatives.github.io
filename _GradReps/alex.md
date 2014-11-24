@@ -1,6 +1,6 @@
 ---
 name: Alex Pucher
-email: pucher@cs.ucsb.edu
+email: pucher [at] cs.ucsb.edu
 picture:
 positions:
   - position: GSA VP, Academic Affairs

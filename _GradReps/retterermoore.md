@@ -1,6 +1,6 @@
 ---
 name: John Retterer-Moore
-email: retterermoore@cs.ucsb.edu
+email: retterermoore [at] cs.ucsb.edu
 picture: 
 positions:
   - position: GSA Rep

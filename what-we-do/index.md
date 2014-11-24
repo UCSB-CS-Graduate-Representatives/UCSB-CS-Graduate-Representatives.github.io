@@ -16,7 +16,7 @@ We hold coffee hour the first Friday of every month of the school year, bringing
 
 Graduate Student Workshop
 ---
-We also help organizing the Graduate Student Workshop on Computing (GSWC) that is held every Fall quarter. You can take a look at our [last edition](http://gsrc.cs.ucsb.edu/2014/).
+We also help organize the Graduate Student Workshop on Computing (GSWC) that is held every Fall quarter. You can take a look at our [last edition](http://gsrc.cs.ucsb.edu/2014/).
 
 By-laws
 ---

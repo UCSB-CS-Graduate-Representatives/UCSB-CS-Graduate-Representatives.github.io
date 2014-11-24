@@ -1,6 +1,6 @@
 ---
 name: Lucas Bang
-email: bang@cs.ucsb.edu
+email: bang [at] cs.ucsb.edu
 picture:
 positions:
   - position: Graduate Affairs Committee

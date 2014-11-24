@@ -8,7 +8,7 @@ positions:
   - position: GSA Rep
     link: /positions#gsa_representatives
 description: >
-  Hi, my name is Keith and this is my description
+  M.S. student since graduating from UCSB with a B.S. in 2013
 webpage: www.cs.ucsb.edu/~kpavery/
 
 layout: profile

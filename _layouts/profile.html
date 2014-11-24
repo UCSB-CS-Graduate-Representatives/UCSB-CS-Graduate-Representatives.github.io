@@ -7,7 +7,10 @@ layout: default
     <h1 class="post-title">{{ page.name }}</h1>
     {% if page.title %}
         <h2>{{ page.title }}</h2>
-        {% endif %}
+    {% endif %}
+    {% if page.picture %}
+        <img src="{{page.picture}}" name="picture" alt="photo" width="200" align="right" border="0" height="200">
+    {% endif %}
     {% if page.positions %}
         <p class="post-meta">
             {% for position in page.positions %}
@@ -19,9 +22,6 @@ layout: default
     <h5>{{page.email}}</h5>
     </header>
 
-    {% if page.picture %}
-        <img src="{{page.picture}}" name="picture" alt="photo" width="200" align="right" border="0" height="200">
-    {% endif %}
     <article class="post-content">
         {% if content.size != 1 %}
             {{ content }}

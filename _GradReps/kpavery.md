@@ -1,16 +1,16 @@
 ---
 name: Keith Avery
 email: kpavery@cs.ucsb.edu
-picture:
+picture: https://www.cs.ucsb.edu/~kpavery/headshot-square.jpg
 positions:
   - position: Secretary
     link: /positions#commitee_executives
   - position: GSA Rep
     link: /positions#gsa_representatives
 description: >
-  Hi, my name is Keith and this is my description
+  M.S. student since graduating from UCSB with a B.S. in 2013.
 webpage: www.cs.ucsb.edu/~kpavery/
 
 layout: profile
-title: my personal webpage
+title: 
 ---

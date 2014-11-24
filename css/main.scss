@@ -27,6 +27,11 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+/* Main menu */
+
+div.site-nav .trigger a {
+	margin: 0 10px;
+}
 
 
 // Using media queries with like this:

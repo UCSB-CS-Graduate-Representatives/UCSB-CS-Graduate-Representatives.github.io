@@ -10,5 +10,5 @@ description: >
 webpage: http://cs.ucsb.edu/~victor/
 
 layout: profile
-title: Department of Computer Science, UC Santa Barbara
+title:
 ---

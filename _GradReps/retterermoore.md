@@ -7,7 +7,7 @@ positions:
     link: /positions#gsa_representatives
 description: >
   Hi, my name is John and this is my description
-webpage: www.cs.ucsb.edu/~retterermoore/
+webpage: http://www.cs.ucsb.edu/~retterermoore/
 
 layout: profile
 title: my personal webpage

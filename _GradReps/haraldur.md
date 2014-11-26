@@ -9,7 +9,7 @@ positions:
     link: /positions#facilities_committee
 description: >
     Ph.D. student since June 2014. Runner, climber, hiker, thinker, tinker, speaker, and part-time sleeper.
-webpage: www.cs.ucsb.edu/~hth
+webpage: http://www.cs.ucsb.edu/~hth
 
 layout: profile
 title:

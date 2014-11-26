@@ -7,7 +7,7 @@ positions:
     link: /positions#grad_admissions_committee
 description: >
   Hi, my name is Morgan and this is my description
-webpage: www.cs.ucsb.edu/~mvigil/
+webpage: http://www.cs.ucsb.edu/~mvigil/
 
 layout: profile
 title: my personal webpage

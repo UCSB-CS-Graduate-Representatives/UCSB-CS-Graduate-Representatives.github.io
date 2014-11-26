@@ -9,7 +9,7 @@ positions:
     link: /positions#gsa_representatives
 description: > 
   Ph.D student, research assistant, doing a bit of politics too.
-webpage: www.cs.ucsb.edu/~arlei/
+webpage: http://www.cs.ucsb.edu/~arlei/
 
 layout: profile
 title: Arlei Silva

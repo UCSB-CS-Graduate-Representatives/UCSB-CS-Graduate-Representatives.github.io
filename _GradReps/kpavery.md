@@ -9,7 +9,7 @@ positions:
     link: /positions#gsa_representatives
 description: >
   M.S. student since graduating from UCSB with a B.S. in 2013.
-webpage: www.cs.ucsb.edu/~kpavery/
+webpage: http://www.cs.ucsb.edu/~kpavery/
 
 layout: profile
 title: 

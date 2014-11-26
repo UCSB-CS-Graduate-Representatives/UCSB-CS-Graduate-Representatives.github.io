@@ -4,12 +4,12 @@ layout: default
 <div class="post">
 
   <header class="post-header">
+    {% if page.picture %}
+        <img src="{{page.picture}}" class="picture" alt="photo" width="200" align="right" border="0" height="200">
+    {% endif %}
     <h1 class="post-title">{{ page.name }}</h1>
     {% if page.title %}
         <h2>{{ page.title }}</h2>
-    {% endif %}
-    {% if page.picture %}
-        <img src="{{page.picture}}" name="picture" alt="photo" width="200" align="right" border="0" height="200">
     {% endif %}
     {% if page.positions %}
         <p class="post-meta">

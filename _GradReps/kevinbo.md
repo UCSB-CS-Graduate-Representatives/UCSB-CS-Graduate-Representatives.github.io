@@ -1,14 +1,11 @@
 ---
 name: Kevin Borgolte
-email: kevinbo [at] cs.ucsb.edu
-picture: 
+email: firstname + lastname[:2] -at- cs.ucsb.edu
+picture: http://www.gravatar.com/avatar/168d03fffd4add5eca35e92b12f0d385?size=200
 positions:
-  - position: Recruitment Committee
+  - position: Faculty Recruitment Committee
     link: /positions#recruitment_committee
-description: >
-  Hi, my name is Kevin and this is my description
-webpage: www.cs.ucsb.edu/~kevinbo/
+webpage: https://kevin.borgolte.me
 
 layout: profile
-title: my personal webpage
 ---

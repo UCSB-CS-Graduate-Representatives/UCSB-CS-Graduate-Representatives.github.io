@@ -1,16 +1,20 @@
 # Site settings
-title: UCSB CS Graduate Representatives 
+title: UCSB CS Graduate Representatives
 email: greps@cs.ucsb.edu
 description: > # this means to ignore newlines until "baseurl:"
-    University of California, Santa Barbara (UCSB) Computer Science graduate student representatives' webpage
+    University of California, Santa Barbara
+    Computer Science
+    Graduate Student Representatives
+
+footer_1: University of California, Santa Barbara
+footer_2: Computer Science Graduate Student Representatives
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username: UCSB-CS-Graduate-Representatives 
+url: "https://ucsb-cs-graduate-representatives.github.io" # the base hostname & protocol for your site
+github_username: UCSB-CS-Graduate-Representatives
 permalink: pretty
 
 # Build settings
 markdown: kramdown
-
 
 # Navigation toolbar:
 navigation:
@@ -19,8 +23,8 @@ navigation:
     - text: Who we are
       url: /who-we-are/
     - text: Contact us
-      url: /contact/ 
-          
+      url: /contact/
+
 collections:
     GradReps:
         output: true

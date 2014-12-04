@@ -1,7 +1,7 @@
 ---
 name: Emilie Menard Barnard 
 email: emilie [at] cs.ucsb.edu
-picture: 
+picture: http://i.imgur.com/qZIwROY.jpg
 positions:
   - position: Treasurer
     link: /positions#commitee_executives

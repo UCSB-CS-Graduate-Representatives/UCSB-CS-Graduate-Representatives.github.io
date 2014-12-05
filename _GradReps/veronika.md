@@ -6,8 +6,7 @@ positions:
   - position: Undergraduate Affairs Committee
     link: /positions#undergrad_affairs_committee
 description: >
-  Hi, my name is Veronika and this is my description
-webpage: http://www.cs.ucsb.edu/~veronika/
+  Hi, my name is Veronika and I am a 4th year Ph.D. student at UCSB. My personal web page is here: http://www.cs.ucsb.edu/~veronika/
 
 layout: profile
 title: my personal webpage

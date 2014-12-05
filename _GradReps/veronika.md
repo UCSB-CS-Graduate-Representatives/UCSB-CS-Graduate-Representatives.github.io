@@ -1,5 +1,5 @@
 ---
-name: Veronika Strnadova
+name: Veronika Strnadova-Neeley
 email: veronika [at] cs.ucsb.edu
 picture:
 positions:

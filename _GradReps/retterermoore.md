@@ -7,7 +7,7 @@ positions:
     link: /positions#gsa_representatives
 description: >
   I'm a first year PhD student, generally interested in theory and currently working on cryptography.
-webpage: www.retterermoore.com
+webpage: http://www.retterermoore.com
 
 layout: profile
 title: 

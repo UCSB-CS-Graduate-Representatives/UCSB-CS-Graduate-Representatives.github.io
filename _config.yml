@@ -1,7 +1,7 @@
 # Site settings
 title: UCSB CS Graduate Representatives
-email: greps@cs.ucsb.edu
-description: > # this means to ignore newlines until "baseurl:"
+email: gradreps@cs.ucsb.edu
+description: > # this means to ignore newlines until next entry 
     University of California, Santa Barbara
     Computer Science
     Graduate Student Representatives
@@ -26,6 +26,6 @@ navigation:
       url: /contact/
 
 collections:
-    GradReps:
-        output: true
+    GradReps: # Collection of GradRep profiles (in /_GradReps/)
+        output: true # Each GradRep gets a html webpage
         permalink: /gradrep/:path/

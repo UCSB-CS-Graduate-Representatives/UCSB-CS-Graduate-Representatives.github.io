@@ -1,7 +1,7 @@
 ---
 name: Morgan Vigil
 email: mvigil [at] cs [dot] ucsb [dot] edu
-picture:
+picture: http://www.cs.ucsb.edu/~mvigil/img/profile.jpg
 positions:
   - position: Graduate Admissions Committee
     link: /positions#grad_admissions_committee

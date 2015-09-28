@@ -6,9 +6,9 @@ title: What we do
 What we do
 =======
 
-The elected Graduate Student Association (GSA) Representatives go to GSA meetings. Find out what happens there by reading the [meeting minutes](https://drive.google.com/folderview?id=0B69hCaWL5B4AeEt4OUoyNEtzQk0&usp=sharing) or by checking our [positions](/positions/).
+The elected Graduate Student Association (GSA) Representatives go to GSA meetings. Find out what happens there by reading the [meeting minutes](https://drive.google.com/folderview?id=0B69hCaWL5B4AeEt4OUoyNEtzQk0&usp=sharing) or by checking our [positions]({{site.baseurl}}/positions/).
 
-The elected members of committees attend committee meetings to ensure that graduate students views are considered. You can take a look at what we are working on [here](https://drive.google.com/folderview?id=0B69hCaWL5B4AUFlueFZWUUp2anc&usp=sharing). [Contact your representative](/contact/) if you want to share your thoughts! 
+The elected members of committees attend committee meetings to ensure that graduate students views are considered. You can take a look at what we are working on [here](https://drive.google.com/folderview?id=0B69hCaWL5B4AUFlueFZWUUp2anc&usp=sharing). [Contact your representative]({{site.baseurl}}/contact/) if you want to share your thoughts! 
 
 Events
 ---
@@ -21,4 +21,4 @@ We also help organize the Graduate Student Workshop on Computing (GSWC) that is 
 By-laws
 ---
 
-The by-laws by which govern this organization can be found [here](/bylaws/).
+The by-laws by which govern this organization can be found [here]({{site.baseurl}}/bylaws/).

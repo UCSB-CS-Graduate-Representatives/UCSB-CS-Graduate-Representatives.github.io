@@ -38,11 +38,14 @@ The Graduate Admissions Committee processes all of the new graduate student appl
 
 The Undergraduate Curriculum Committee discusses changes to undergraduate courses, makes class schedules, and estimates the number of students that will enroll in each course. Committee members meet to discuss changes to course descriptions and course material. Also, student evaluation statistics are discussed in detail and any appropriate changes are recommended. The committee consists of five professors, one undergraduate student, and one graduate student.
 
-<h2 id="public_relations_committee">Public Relations Committee</h2>
+<h2 id="coffee_hour_planner">Coffee Hour Planner</h2>
 
-The student representative to the Public Relations Committee attends meetings concerning how the department presents itself on the web. The representative is also responsible for maintaining the CS GREPs website and help run the GREPs elections.
+The coffee hour is everyone\'s favorite social event in our department. This student leads a team of 4-6 volunteers who help in organizing (shopping, setup etc.) the coffee hour, which takes place every first Friday of the month and is currently funded by Appfolio. Expected dedication time is 2 hours/month and car availability is needed for shopping. 
 
 <h2 id="undergrad_affairs_committee">Undergraduate Affairs Committee</h2>
 
 The Undergraduate Affairs Committee monitors and proposes changes to the undergraduate programs. This committee also monitors the undergraduate enrollment and develops policies for ensuring a healthy level of undergraduate enrollment in the department. It focuses on advising, events, and anything else that will enhance the experience and learning of our undergraduate students. The graduate student representative on this committee helps steer and plan the focus of events such as the CS Array of Talks and provides input on undergraduate advising and undergraduate enrollment.
 
+<h2 id="department_day_committee">Department Day Committee</h2>
+
+This representative will work with faculty and staff in the organization of our first department day event, which will be a full-day department-wise event showcasing the great work done in our department. In particular, this student will work as the Program Committee (PC) Chair for the research track of the event, which replaces our former Graduate Student Workshop on Computing (GSWC).

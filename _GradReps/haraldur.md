@@ -1,14 +1,14 @@
 ---
 name: Haraldur Tómas Hallgrímsson
 email: (my initials) [at] cs.ucsb.edu
-picture: http://cs.ucsb.edu/sites/www.cs.ucsb.edu/files/styles/portrait-full/public/images/graduate/Upphaf.jpg
+picture: https://www.cs.ucsb.edu/sites/cs.ucsb.edu/files/styles/portrait-full/public/images/graduate/Upphaf.jpg
 positions:
   - position: Public Relations Committee
     link: /positions#public_relations_committee
   - position: Facilities Committee
     link: /positions#facilities_committee
 description: >
-    Ph.D. student since June 2014. Runner, climber, hiker, thinker, tinker, speaker, and part-time sleeper.
+    Ph.D. student since June 2014. 
 webpage: http://www.cs.ucsb.edu/~hth
 
 layout: profile

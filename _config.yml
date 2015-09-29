@@ -8,10 +8,12 @@ description: > # this means to ignore newlines until next entry
 
 footer_1: University of California, Santa Barbara
 footer_2: Computer Science Graduate Student Representatives
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://ucsb-cs-graduate-representatives.github.io" # the base hostname & protocol for your site
+baseurl: "/~greps" # the subpath of your site, e.g. /blog/
+#url: "https://ucsb-cs-graduate-representatives.github.io" # the base hostname & protocol for your site
+url: "http://cs.ucsb.edu/"
 github_username: UCSB-CS-Graduate-Representatives
 permalink: pretty
+destination: ~/public_html/
 
 # Build settings
 markdown: kramdown

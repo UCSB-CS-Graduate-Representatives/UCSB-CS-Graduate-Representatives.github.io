@@ -54,6 +54,4 @@ This representative will work with faculty and staff in the organization of our 
 
 The Diversity Committee is responsible for coordinating outreach and diversity efforts in the department. The graduate student representative will attend the Diversity Committee meetings and provide input, as the representative acts as the interface between the committee and diversity-promoting groups within the department, such as Women in Computer Science (WiCS).
 
-<h2 id="senate_committee">Grad Student Senate (New!) </h2>
 
-Works directly with the chair and staff in the organization of department events and on improving the conditions of graduate students in the department. This group of students is expected to represent all the research labs (roughly, one student per lab), Master's students and Teaching Assistants.

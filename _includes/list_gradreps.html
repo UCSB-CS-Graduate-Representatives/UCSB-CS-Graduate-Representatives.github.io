@@ -9,11 +9,11 @@
             <img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?&f=y&d=mm&size=125" class="picture" alt="photo" width="125" align="left" border="0" height="125">
         {% endif %}
         <div class="gradrep_description">
-            <a class="gradrep_name" href="{{ gradrep.url }}">{{ gradrep.name }}</a>
+            <a class="gradrep_name" href="{{ gradrep.url | prepend:site.baseurl }}">{{ gradrep.name }}</a>
             <ul>
                 {% for position in gradrep.positions %}
                     {% if position.link %}
-                        <li><a href="{{ position.link }}">{{ position.position }}</a></li>
+                        <li><a href="{{ position.link | prepend:site.baseurl }}">{{ position.position }}</a></li>
                     {% else %}
                         <li>{{ position.position }}</li>
                     {% endif %}

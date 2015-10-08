@@ -1,10 +1,10 @@
-[UCSB-CS-Graduate-Representatives.github.io](http://ucsb-cs-graduate-representatives.github.io/)
+[UCSB CS Gradreps website](http://cs.ucsb.edu/~greps/)
 ==========================================
 
 The new open-source Gradreps website 
 ------------------------------------
 
-Interested in contributing to [the website](http://ucsb-cs-graduate-representatives.github.io/)? Curious how it is put together? Want to use it as a building block to create your own? Here's how!
+Interested in contributing to [the website](http://cs.ucsb.edu/~greps/)? Curious how it is put together? Want to use it as a building block to create your own? Here's how!
 
 This website is run on [GitHub pages](https://pages.github.com/), a free hosting service for static pages. Content is written in a simple human-readable markdown format, organized in a straightforward directory structure. GitHub (or rather: [Jekyll](https://help.github.com/articles/using-jekyll-with-pages/), the engine powering this) does the heavy lifting of translating the entire package into a static website.
 

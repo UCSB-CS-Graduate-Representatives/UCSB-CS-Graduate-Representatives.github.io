@@ -36,11 +36,11 @@ The Graduate Admissions Committee processes all of the new graduate student appl
 
 <h2 id="undergrad_curriculum_committee">Undergraduate Curriculum Committee</h2>
 
-The Undergraduate Curriculum Committee discusses changes to undergraduate courses, makes class schedules, and estimates the number of students that will enroll in each course. Committee members meet to discuss changes to course descriptions and course material. Also, student evaluation statistics are discussed in detail and any appropriate changes are recommended. The committee consists of five professors, one undergraduate student, and one graduate student.
+The Undergraduate Curriculum Committee discusses changes to undergraduate courses, makes class schedules, and estimates the number of students that will enroll in each course. Committee members meet to discuss changes to course descriptions and course material. Also, student evaluation statistics are discussed in detail and any appropriate changes are recommended. The committee consists of five faculty and one graduate student representative.
 
 <h2 id="coffee_hour_committee">Coffee Hour Committee</h2>
 
-The Coffee Hour Committee is responsible for coordinating department Coffee Hours throughout the school year. Coffee Hours are periodic, casual meetings that provide a venue for grad students and faculty to mingle and learn more about the research that is going on the department. The grad student representatives sitting on the committee will coordinate logistics with the office, such as budgeting, scheduling, food ordering, and advertising.
+The Coffee Hour Committee is responsible for coordinating department Coffee Hours throughout the school year. Coffee Hours are weekly, casual meetings that provide a venue for grad students and faculty to mingle and learn more about the research that is going on the department. The grad student representatives sitting on the committee will coordinate logistics with the office, such as budgeting, scheduling, food ordering, and advertising. 
 
 <h2 id="undergrad_affairs_committee">Undergraduate Affairs Committee</h2>
 

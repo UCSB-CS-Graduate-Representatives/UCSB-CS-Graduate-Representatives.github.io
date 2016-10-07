@@ -21,6 +21,7 @@ It is the responsibility of our department representatives to the GSA to attend 
 <h2 id="recruitment_committee">Recruitment Committee</h2>
 
 The Recruitment Committee representative participates in the recruitment of faculty candidates in the department. This committee reviews the applications and invites qualified recruits to interview for available faculty positions. The graduate student representative arranges the lunch meetings that these recruits have with the graduate students and collects feedback to report back to the committee. Being the graduate student representative to the Recruitment Committee may be of major interest to those intending to apply for faculty positions later in their career.
+Past Graduate Representative (2015-2016): Arya Pourzanjani
 
 <h2 id="facilities_committee">Facilities Committee</h2>
 
@@ -28,19 +29,23 @@ The student representative on the facilities committee serves as a communicator 
 
 <h2 id="grad_affairs_committee">Graduate Affairs Committee</h2>
 
-The student representative on the Graduate Affairs Committee is responsible for gathering and voicing the suggestions and complaints of the graduate student body with regards to any issues that pertain to their academic life. Example issues that have fallen upon this committee are: restructuring of screening exams, rising GSR salary levels and early planning/expanding of courses offered by the department. Typically, the Lead TA serves as the representative on this committee.
+The student representative on the Graduate Affairs Committee is responsible for gathering and voicing the suggestions and complaints of the graduate student body with regards to any issues that pertain to their academic life. Example issues that have fallen upon this committee are: restructuring of screening exams, rising GSR salary levels and early planning/expanding of courses offered by the department. Typically, the Lead TA serves as the representative on this committee. <br>
+Past Graduate Representative (2015-2016): Victor Zakhary
 
 <h2 id="grad_admissions_committee">Graduate Admissions Committee</h2>
 
-The Graduate Admissions Committee processes all of the new graduate student applications for the department, and selects the most promising candidates for acceptance to the program. The graduate student committee member has the responsibility of monitoring these activities and contributing to the selection process. The representative also plays a critical role in graduate student recruitment.
+The Graduate Admissions Committee processes all of the new graduate student applications for the department, and selects the most promising candidates for acceptance to the program. The graduate student committee member has the responsibility of monitoring these activities and contributing to the selection process. The representative also plays a critical role in graduate student recruitment.<br>
+Past Graduate Representative (2015-2016): Michael Nekrasov
 
 <h2 id="undergrad_curriculum_committee">Undergraduate Curriculum Committee</h2>
 
-The Undergraduate Curriculum Committee discusses changes to undergraduate courses, makes class schedules, and estimates the number of students that will enroll in each course. Committee members meet to discuss changes to course descriptions and course material. Also, student evaluation statistics are discussed in detail and any appropriate changes are recommended. The committee consists of five faculty and one graduate student representative.
+The Undergraduate Curriculum Committee discusses changes to undergraduate courses, makes class schedules, and estimates the number of students that will enroll in each course. Committee members meet to discuss changes to course descriptions and course material. Also, student evaluation statistics are discussed in detail and any appropriate changes are recommended. The committee consists of five faculty and one graduate student representative.<br>
+Past Graduate Representative (2015-2016): Emilie Barnard
 
 <h2 id="coffee_hour_committee">Coffee Hour Committee</h2>
 
-The Coffee Hour Committee is responsible for coordinating department Coffee Hours throughout the school year. Coffee Hours are weekly, casual meetings that provide a venue for grad students and faculty to mingle and learn more about the research that is going on the department. The grad student representatives sitting on the committee will coordinate logistics with the office, such as budgeting, scheduling, food ordering, and advertising. 
+The Coffee Hour Committee is responsible for coordinating department Coffee Hours throughout the school year. Coffee Hours are weekly, casual meetings that provide a venue for grad students and faculty to mingle and learn more about the research that is going on the department. The grad student representatives sitting on the committee will coordinate logistics with the office, such as budgeting, scheduling, food ordering, and advertising. <br>
+Past Graduate Representative (2015-2016): Haraldur Tomas Hallgrimsson
 
 <h2 id="undergrad_affairs_committee">Undergraduate Affairs Committee</h2>
 
@@ -52,7 +57,8 @@ This representative will work with faculty and staff in the organization of our 
 
 <h2 id="diversity_committee">Diversity Committee</h2>
 
-The Diversity Committee is responsible for coordinating outreach and diversity efforts in the department. The graduate student representative will attend the Diversity Committee meetings and provide input, as the representative acts as the interface between the committee and diversity-promoting groups within the department, such as Women in Computer Science (WiCS).
+The Diversity Committee is responsible for coordinating outreach and diversity efforts in the department. The graduate student representative will attend the Diversity Committee meetings and provide input, as the representative acts as the interface between the committee and diversity-promoting groups within the department, such as Women in Computer Science (WiCS). <br>
+Past Graduate Representative (2015-2016): Veronika Strnadova-Neeley
 
 <h2 id="grad_student_senate">Grad Student Senate</h2>
 

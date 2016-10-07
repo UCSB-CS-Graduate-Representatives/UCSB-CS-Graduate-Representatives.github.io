@@ -20,7 +20,7 @@ It is the responsibility of our department representatives to the GSA to attend 
 
 <h2 id="recruitment_committee">Recruitment Committee</h2>
 
-The Recruitment Committee representative participates in the recruitment of faculty candidates in the department. This committee reviews the applications and invites qualified recruits to interview for available faculty positions. The graduate student representative arranges the lunch meetings that these recruits have with the graduate students and collects feedback to report back to the committee. Being the graduate student representative to the Recruitment Committee may be of major interest to those intending to apply for faculty positions later in their career.
+The Recruitment Committee representative participates in the recruitment of faculty candidates in the department. This committee reviews the applications and invites qualified recruits to interview for available faculty positions. The graduate student representative arranges the lunch meetings that these recruits have with the graduate students and collects feedback to report back to the committee. Being the graduate student representative to the Recruitment Committee may be of major interest to those intending to apply for faculty positions later in their career. <br>
 Past Graduate Representative (2015-2016): Arya Pourzanjani
 
 <h2 id="facilities_committee">Facilities Committee</h2>

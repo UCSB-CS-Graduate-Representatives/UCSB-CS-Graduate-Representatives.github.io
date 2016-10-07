@@ -7,7 +7,12 @@ positions:
     link: /positions#diversity_committee
   - position: President
     link: /positions#committee_executives
-description: >
+webpage: http://www.cs.ucsb.edu/~veronika
+
+layout: profile
+title:
+---
+
   Hi, my name is Veronika and I am a 6th year Ph.D. student at UCSB. My personal web page is here: http://www.cs.ucsb.edu/~veronika/ . 
   
 This past year (2015-2016) I served on the Diversity Committee and was the Graduate Student Representative President. Two years ago I served on the Undergraduate Affairs Committee.
@@ -18,6 +23,3 @@ As President, my main role has been to organize grad rep meetings and try to kee
 
 Two years ago, on the Undergraduate Affairs Committee (2014-2015), my main job was to help plan events for computer science undergraduates. These events are meant to promote diversity, maintain a healthy level of enrollment in our department, and enhance the learning experience of our CS undergraduates at UCSB. The committee planned events such as the Array of Talks and career panels for undergraduates.
 
-layout: profile
-title: my personal webpage
----

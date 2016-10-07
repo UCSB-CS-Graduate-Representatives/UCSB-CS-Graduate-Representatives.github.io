@@ -17,6 +17,8 @@ The elected GREPs select from among themselves a secretary, treasurer, and presi
 <h2 id="gsa_representatives">GSA Representatives</h2>
 
 It is the responsibility of our department representatives to the GSA to attend the General Assembly meetings and represent the Computer Science graduate students there. Representatives are responsible for passing along to the department's graduate students any relevant information presented at the meetings. GSA Assembly meetings occur monthly (first Tuesday of every month) between 6pm and 8pm. _Regular attendance is important as the GSA provides funding to the GREPs proportional to their attendance._
+<br>
+Past GSA Representatives (2015-2016): Ayme Tomson, Rafael Melendez-Rioz, Chad Spensky
 
 <h2 id="recruitment_committee">Recruitment Committee</h2>
 

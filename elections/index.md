@@ -6,45 +6,39 @@ title: Elections-2015-2016
 Candidates
 =======
 
-Ayme Tomson, 2nd year
+Victor Amelkin, 6th Year
 ---
-I think the Graduate Student Senate is a great idea for promoting communication between labs in the department; I would like to be a part of making it successful.  I also feel strongly that our quality of life affects how well we can succeed as graduate students.  I think being a part of the Graduate Student Senate and/or a GSA representative would allow me to participate and engage in maintaining and improving on the overall experience of graduate school life here at UCSB.
+I am a sixth-year PhD Candidate in the CS department, doing research in network science. I have been both an RA and a TA, having spent the recent years RAing at DBL. In the past, I served as a GSA representative, and now I would like to contribute as a member of one of the committees---grad admissions, undergrad curriculum, facilities, grad senate. During the last few years, I have helped a number of people with their application to PhD programs in STEM, and this experience can help the grad admissions committee. I have also taken enough courses and have spent enough time in industry to understand in which direction the undergrad curriculum should evolve. Additionally, I have some experience dealing with the chair, which can help the grad student senate. Finally, I have had experience dealing with UCSB's computing infrastructure, from the desktops at DBL to the CNSI's clusters, which is relevant to the facilities committee. I would be happy to serve our department in 2016-17.
 
-Chad Spensky, Ph.D, 1st year
+Sanjana Sahayaraj, 1st Year
 ---
-I was previously the graduate student president for the computer science department at UNC-CH, and it was one of the most rewarding experiences of my graduate career.  It was a great way to meet students from other disciplines and do what I could to make the department a better place for everyone.  I feel that my experiences at Pitt (undergraduate), UNC-CH (graduate), and MIT (research staff) could provide some valuable insights.
+I'm a first year PhD student and I've joined PhD after completing my bachelors this year. During my bachelors, I felt that there has to be an improvement in the way teachers and students interact with each other. And this has to start right from selecting the faculties and designing the coursework for students. That's the reason I've applied to these posts. Though what I can do as a graduate representative in these committees, is limited, I would feel really content if I can contribute something in these matters. 
 
-Rafael Melendez-Rios, Ph.D, 2nd year
+Kevin Borgolte
 ---
-Hey all. I am a second year PhD student interested in network science, NLP and work mixing computational methods with the social sciences and humanities. As an aspiring academic interested in the inner workings of departments, I am running for the faculty recruitment and undergraduate curriculum positions. Furthermore, as a former English major with interdisciplinary interests, I would also like to run for the GSA and help build bridges across departments. Thanks.
+I am running for the Graduate Student Senate to keep improving the graduate student life and work (research and teaching) in the department. I am currently a member of the senate and enjoyed working there, thus I would like to continue to do so.
 
-Arya Pourzanjani, Ph.D, 1st year
+Alex Jones, 2nd Year
 ---
-My goal is to help make our CS department a top machine learning department. I attended every faculty candidate lecture and lunch last Spring, and I follow the top machine learning journals very closely (the area the department is looking to hire in). I will be able to use my knowledge to help hire a candidate that:
-1) is well established and productive in the machine learning community and can advise students to later go on to top positions in academia and industry
-2) can bring plenty of grant money so students can focus on research rather than TAing
-3) will teach useful machine learning courses so students from other areas such as systems and security can apply machine learning techniques to their own research
+I am a second year PhD student looking to meet and bring together students and faculty in the CS department. My research interests are broad and I find it exciting to hear what research is being done by others in the department. I'd like to run for coffee hour committee to facilitate and expand this engaging social aspect of grad life.
 
-Neeraj Kumar, Ph.D, 1st year
+Kevin Deweese, 6th Year
 ---
-I am applying for faculty recruitment position since I am interested in academic jobs later in the career. This experience will give me useful insights about the process and what to expect. I have attended quite a few faculty recruitment talks and meeting with graduate students during my masters at University of Waterloo and I understand the importance and responsibilities of this role.
+I'm a 6th year PhD student in our department running for a position on the graduate admissions committee. Meeting with graduate students during visit weekend greatly impacted my first impressions of UCSB and our department and I want to make sure this continues to be a worthwhile experience for prospective students. I've also always wanted to know what it's like to be on the other side of a stack of applications. With your support, I know we can make the CS department great again MCSGA.
 
-Emilie Menard Barnard, MS, 2nd year
+Yun Zhao, 1st Year
 ---
-Hi everyone! I was honored to be the Undergraduate Curriculum Committee grad representative last year and would love to be it again! I did my undergraduate studies here at UCSB so I know the undergrad curriculum very well. I'm very passionate about education, and I especially love helping those that are just starting to learn CS. I was also the lead TA for CS 8, our intro CS class, last year. After graduation, I intend to teach CS courses at the community college level. Thanks for your time! =D
+I am a 1st year PhD. And was lucky enough to receive the Chancellor's Fellowship. I have incredible interests for being the graduate student representative to the Recruitment Committee. I love teaching and research and  really want to apply for faculty positions later in my career. 
 
-Michael Nekrasov, Ph.D, 4th year
+Pratik Soni, 
 ---
-I am invested in recruiting and retaining undergraduates in CS, and want to help streamline their educational experiences.
+I am a member of the Cryptography group and a part of the Theoretical Computation Lab. Theory@UCSB over the years has enjoyed a lacklustre response from both the graduate and the undergraduate students. I believe there is lack of awareness about the research carried out in our theory groups, thereby promoting little interest among students, especially undergrads. If given an opportunity to serve as a member of the Senate, I would like to create better awareness about research in theory by organising theory-related seminars throughout the year. Through such seminars, I would like provide a platform for students to pursue/enjoy theory beyond their principal interests. Being on the Senate as a representative of the Theoretical Computation lab will be instrumental in executing the plans outlined above.
 
-Haraldur Tomas Hallgrimsson
+Cauchy Lee Li, 
 ---
-Hi all! I've enjoyed serving as your gradrep for the past year and, with your support, would love to continue doing so. I'm a second year PhD student and I want to be the epsilon that makes our department a delta more enjoyable!
+Keqian Li is a Ph.D. student working in the area of with a focus on deep learning and natural language processing, after some previous years at Zenefits, Facebook, Microsoft Research, Google, University of British Columbia, Tsinghua University. His advisor is Professor Xifeng Yan.
 
-Viktor Zakhary
+Haleigh Wright, 2nd Year
 ---
-
-Veronika Strnadova-Neeley
----
-I am happy to see that the diversity committee has been reinstated. :) I would love to work on creating a more diverse environment for CS graduate students at UCSB. I have some experience in working with under-represented groups in CS, such as the Women in Computer Science (WiCS). Last year I served on the Undergraduate Affairs Committee and learned much about the planning and effort that goes into events put on for the enrichment of CS undergrad lives, such as the Array of Talks. I would like to help the Diversity Committee plan similar events, specifically to promote diversity in our department.
+Haleigh Wright is a second year PhD student and Women in Computer Science (WiCS) officer. She is committed to helping make our department as inclusive as it can be.
 

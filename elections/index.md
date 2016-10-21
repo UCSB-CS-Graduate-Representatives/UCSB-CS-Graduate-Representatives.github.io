@@ -42,3 +42,7 @@ Haleigh Wright
 ---
 Haleigh Wright is a second year PhD student and Women in Computer Science (WiCS) officer. She is committed to helping make our department as inclusive as it can be.
 
+Omid Askarisichani
+---
+I am a second year PhD student looking to meet and bring together students and faculty in the CS department. My research area fall in applied machine learning and social networks. I am really passionate about teaching and I am current lead TA. I will try my best to make the department a better and more suitable place for all grads, especially for our awesome TAs.
+

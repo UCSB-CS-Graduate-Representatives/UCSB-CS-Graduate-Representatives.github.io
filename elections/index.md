@@ -36,7 +36,7 @@ I am a member of the Cryptography group and a part of the Theoretical Computatio
 
 Cauchy Lee Li 
 ---
-Hi I'm a first year Ph.D. student with a focus on deep learning and natural language processing. I've been in and around the tech scene for a couple of years, either as software engineer or more research oriented role, and I do feel a need to bring back my experience to the need of the department, to provide that extra piece of sensitivity to the wisdom of the whole team. Feel free to check on https://www.cs.ucsb.edu/~klee/ for a detailed bio and more updates!an Li is a Ph.D. student working in the area of with a focus on deep learning and natural language processing, after some previous years at Zenefits, Facebook, Microsoft Research, Google, University of British Columbia, Tsinghua University. His advisor is Professor Xifeng Yan.
+Hi I'm a first year Ph.D. student with a focus on deep learning and natural language processing. I've been in and around the tech scene for a couple of years, either as software engineer or more research oriented role, and I do feel a need to bring back my experience to the need of the department, to provide that extra piece of sensitivity to the wisdom of the whole team. Feel free to check on https://www.cs.ucsb.edu/~klee/ for a detailed bio and more updates!
 
 Haleigh Wright
 ---

@@ -18,12 +18,10 @@ The elected GREPs select from among themselves a secretary, treasurer, and presi
 
 It is the responsibility of our department representatives to the GSA to attend the General Assembly meetings and represent the Computer Science graduate students there. Representatives are responsible for passing along to the department's graduate students any relevant information presented at the meetings. GSA Assembly meetings occur monthly (first Tuesday of every month) between 6pm and 8pm. _Regular attendance is important as the GSA provides funding to the GREPs proportional to their attendance._
 <br>
-Past GSA Representatives (2015-2016): Ayme Tomson, Rafael Melendez-Rioz, Chad Spensky
 
 <h2 id="recruitment_committee">Recruitment Committee</h2>
 
 The Recruitment Committee representative participates in the recruitment of faculty candidates in the department. This committee reviews the applications and invites qualified recruits to interview for available faculty positions. The graduate student representative arranges the lunch meetings that these recruits have with the graduate students and collects feedback to report back to the committee. Being the graduate student representative to the Recruitment Committee may be of major interest to those intending to apply for faculty positions later in their career. <br>
-Past Graduate Representative (2015-2016): Arya Pourzanjani
 
 <h2 id="facilities_committee">Facilities Committee</h2>
 
@@ -32,35 +30,26 @@ The student representative on the facilities committee serves as a communicator 
 <h2 id="grad_affairs_committee">Graduate Affairs Committee</h2>
 
 The student representative on the Graduate Affairs Committee is responsible for gathering and voicing the suggestions and complaints of the graduate student body with regards to any issues that pertain to their academic life. Example issues that have fallen upon this committee are: restructuring of screening exams, rising GSR salary levels and early planning/expanding of courses offered by the department. Typically, the Lead TA serves as the representative on this committee. <br>
-Past Graduate Representative (2015-2016): Victor Zakhary
 
 <h2 id="grad_admissions_committee">Graduate Admissions Committee</h2>
 
 The Graduate Admissions Committee processes all of the new graduate student applications for the department, and selects the most promising candidates for acceptance to the program. The graduate student committee member has the responsibility of monitoring these activities and contributing to the selection process. The representative also plays a critical role in graduate student recruitment.<br>
-Past Graduate Representative (2015-2016): Michael Nekrasov
 
 <h2 id="undergrad_curriculum_committee">Undergraduate Curriculum Committee</h2>
 
 The Undergraduate Curriculum Committee discusses changes to undergraduate courses, makes class schedules, and estimates the number of students that will enroll in each course. Committee members meet to discuss changes to course descriptions and course material. Also, student evaluation statistics are discussed in detail and any appropriate changes are recommended. The committee consists of five faculty and one graduate student representative.<br>
-Past Graduate Representative (2015-2016): Emilie Barnard
 
 <h2 id="coffee_hour_committee">Coffee Hour Committee</h2>
 
 The Coffee Hour Committee is responsible for coordinating department Coffee Hours throughout the school year. Coffee Hours are weekly, casual meetings that provide a venue for grad students and faculty to mingle and learn more about the research that is going on the department. The grad student representatives sitting on the committee will coordinate logistics with the office, such as budgeting, scheduling, food ordering, and advertising. <br>
-Past Graduate Representative (2015-2016): Haraldur Tomas Hallgrimsson
 
-<h2 id="undergrad_affairs_committee">Undergraduate Affairs Committee</h2>
-
-The Undergraduate Affairs Committee monitors and proposes changes to the undergraduate programs. This committee also monitors the undergraduate enrollment and develops policies for ensuring a healthy level of undergraduate enrollment in the department. It focuses on advising, events, and anything else that will enhance the experience and learning of our undergraduate students. The graduate student representative on this committee helps steer and plan the focus of events such as the CS Array of Talks and provides input on undergraduate advising and undergraduate enrollment.
-
-<h2 id="department_day_committee">Department Day Committee</h2>
+<h2 id="department_day_committee">CS Summit Committee</h2>
 
 This representative will work with faculty and staff in the organization of our first department day event, which will be a full-day department-wise event showcasing the great work done in our department. In particular, this student will work as the Program Committee (PC) Chair for the research track of the event, which replaces our former Graduate Student Workshop on Computing (GSWC).
 
 <h2 id="diversity_committee">Diversity Committee</h2>
 
 The Diversity Committee is responsible for coordinating outreach and diversity efforts in the department. The graduate student representative will attend the Diversity Committee meetings and provide input, as the representative acts as the interface between the committee and diversity-promoting groups within the department, such as Women in Computer Science (WiCS). <br>
-Past Graduate Representative (2015-2016): Veronika Strnadova-Neeley
 
 <h2 id="grad_student_senate">Grad Student Senate</h2>
 

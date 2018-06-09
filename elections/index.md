@@ -1,9 +1,22 @@
 ---
 layout: default
-title: Elections-2015-2016
+title: Annual-Elections
 ---
 
-Candidates
+**The elections for the 2018-19 academic year is underway. The list of the candidates will be posted soon**
+
+
+Current Candidates
+==================
+*To be added soon...*
+
+<br/>
+
+----------------------------------------------------------------------------------------------------------------
+
+<br/>
+
+Past-Candidate GREPs
 =======
 
 Victor Amelkin
@@ -46,3 +59,4 @@ Omid Askarisichani
 ---
 I am a second year PhD student looking to meet and bring together students and faculty in the CS department. My research area fall in applied machine learning and social networks. I am really passionate about teaching and I am current lead TA. I will try my best to make the department a better and more suitable place for all grads, especially for our awesome TAs.
 
+----------------------------------------------------------------------------------------------------------------------------------------

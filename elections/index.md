@@ -5,6 +5,11 @@ title: Annual-Elections
 
 **The elections for the 2018-19 academic year is underway. The list of the candidates will be posted soon**
 
+The elections will be conducted in two steps. First, we are looking to fill the three Executive committee positions,
+after which the elected execs will conduct elections for the remaining non-exec positions.
+
+Please nominate yourself by [filling this form!](https://goo.gl/forms/dA4FrdofBmszhm542) 
+
 
 Current Candidates
 ==================

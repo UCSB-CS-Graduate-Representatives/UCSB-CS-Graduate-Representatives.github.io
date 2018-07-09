@@ -18,16 +18,30 @@ help with onboarding of the new GREPs. The departmental Student Affairs Manager
 supports the representatives, but it is the responsibility of the representatives
 to carry out their duties, as outlined below. (Click on the positions to know more about them).
 
-[Executive Committee](#facilities_committee): Comprises of a secretary, treasurer, and a president. <br/>
-[GSA Representatives](#gsa_representatives): Represent the CS graduate students at GSA meetings. <br/>
-[Recruitment Committee](#recruitment_committee) : Facilitating the faculty recruitment process. <br/>
-[Facilities Committee](#facilities_committee) : Coordinate *facility-related* issues (rooms, grad lounge, etc) <br/>
-[Graduate Affairs Committee](#grad_affairs_committee) : Represent students / TAs at CS Graduate affairs committee. <br/>
-[Graduate Admissions Committee](#grad_admissions_committee)	: Facilitating the graduate student recruitment process. <br/>
-[Undergraduate Curriculum Committee](#undergrad_curriculum_committee) : Changes to undergraduate courses, class schedules etc <br/>
-[Coffee Hour Committee](#coffee_hour_committee) : Facilitating the very popular coffee hour event <br/>
-[CS Summit Committee](#department_day_committee) : Help with [CS summit](http://www.ucsb-cs-summit.com/) <br/>
-[Diversity Committee](#diversity_committee)	: Coordinating outreach and diversity efforts. <br/>
+The available positions roughly fall in two groups. 
+
+The first is the [Executive Committee](#executive_committee) comprising of a secretary, treasurer, and a president.
+The task of this is committee is to basically lead the gradreps, right from conducting elections for the non-exec 
+positions, to conducting gradrep meetings, and if needed helping other the gradreps carry on their duties. 
+This committee is also respondible for most of the department events such as the very popular coffee hour
+and the annual barbecues! In short, the members of executive committee have direct visibility and a lot of 
+potential to positively impact the CS graduate student experience :).
+
+* [Executive Committee President](#gsa_representatives): Also represents the CS graduate students at GSA meetings.
+* [Executive Committee Treasurer](#events_committee) : Also co-lead the CS talks and events committee. 
+* [Executive Committee Secretary](#events_committee) : Also co-lead the CS talks and events committee
+
+The second group of positions deal with more internal department proceedings and ensuring that graduate student
+interests are represented in them.
+
+* [Recruitment Committee](#recruitment_committee) : Facilitating the faculty recruitment process.
+* [Graduate Affairs Committee](#grad_affairs_committee) : Represent students / TAs at CS Graduate affairs committee.
+* [Graduate Admissions Committee](#grad_admissions_committee)	: Facilitating the graduate student recruitment process.
+* [Undergraduate Curriculum Committee](#undergrad_curriculum_committee) : Changes to undergraduate courses, class schedules etc
+* [Diversity Committee](#diversity_committee)	: Coordinating outreach and diversity efforts.
+
+<!-- * [CS Summit Committee](#department_day_committee) : Help with [CS summit](http://www.ucsb-cs-summit.com/)
+* [Facilities Committee](#facilities_committee) : Coordinate *facility-related* issues (rooms, grad lounge, etc) -->
 
 <!-- These representatives are elected each 
 year from the graduate student body. Additionally, representatives take 
@@ -39,16 +53,16 @@ considered. If you would like to fill one of these positions, please
 * * *
 <br/>
 
-<h2 id="commitee_executives">Committee Executives</h2>
-The elected GREPs select from among themselves a secretary, treasurer, and 
-president. The secretary keeps the meeting minutes and distributes them via 
+<h2 id="executive_committee">Executive Committee</h2>
+In the first stage of elections, the CS graduate students elect the three
+executive members, namely the president, treasurer and the secretary.
+The secretary keeps the meeting minutes and distributes them via 
 e-mail to all GREPs. The treasurer tracks the GREPs' funds and manages the 
 budget for the Spring BBQ. The president calls meetings as appropriate (at 
-least once per month) and runs the election for the next term with the help of 
-the representative to the Public Relations Committee.
+least once per month) and runs the election for the non-exec positions for the
+current year and later for the new executive committee for the next year.
 
 <h2 id="gsa_representatives">GSA Representatives</h2>
-
 It is the responsibility of our department representatives (1 or 2) to the GSA, 
 to attend the General Assembly meetings and represent the Computer Science 
 graduate students. Representatives are responsible for passing along to the 
@@ -57,6 +71,30 @@ meetings. Stay in communication with the Student Affairs Manager and provide
 monthly updates. GSA Assembly meetings occur monthly (first Tuesday of every 
 month) between 6pm and 8pm. Regular attendance is important as the GSA provides 
 funding to the GREPs proportional to their attendance. 
+
+*Note that this is an executive position and the GSA rep also serves as the 
+executive committee president.*
+
+<h2 id="coffee_hour_committee">CS Talks and Events Committee</h2>
+This committee comprises of two members who co-lead the department events such as
+the very popular monthly/weekly coffee hours and the annual BBQ.
+Coffee Hours are weekly, casual meetings that provide a venue for grad students
+and faculty to mingle and learn more about the research that is going on the department.
+The grad student representatives sitting on the committee will coordinate logistics with the office, 
+such as coordinating speakers, budgeting, scheduling, food ordering, and advertising. 
+Stays in close contact with the Student Affairs Manager.
+
+*Note that this is an executive position and the two Events rep also serves as the 
+executive committee treasurer and the secretary*
+
+<!--
+<h2 id="department_day_committee">CS Summit Committee</h2>
+ This representative will work with faculty and staff in organization of the 
+event, which will be a full-day department-wise event showcasing the great work 
+done in our department. In particular, this student will work as the Program 
+Committee (PC) Chair for the research track of the event, which replaces our 
+former Graduate Student Workshop on Computing (GSWC). (updates coming)
+-->
 
 <h2 id="recruitment_committee">Recruitment Committee</h2>
 The Recruitment Committee representative participates in the recruitment of 
@@ -70,6 +108,7 @@ Recruitment Committee may be of major interest to those intending to apply for
 faculty positions later in their career. Meetings are held approximately once 
 per week beginning in October.
  
+<!--
  <h2 id="facilities_committee">Facilities Committee</h2>
  The student representative on the facilities committee serves as a 
 communicator between the grad students, faculty, and staff on all facilities 
@@ -80,6 +119,7 @@ the representative coordinates with staff and faculty members on the planning
 of facilities changes. Finally, the representative keeps the student body 
 well-informed of any facilities issues and their resolution. Keeps in regular 
 monthly contact with the committee chair. 
+-->
 
  <h2 id="grad_affairs_committee">Graduate Affairs Committee</h2>
  The student representative on the Graduate Affairs Committee is responsible 
@@ -111,6 +151,7 @@ discussed in detail and any appropriate changes are recommended. The committee
 consists of five faculty and one graduate student representative. The committee 
 meets every other week beginning in October.
  
+<!--
 <h2 id="coffee_hour_committee">Coffee Hour Committee</h2>
  The Coffee Hour Committee is responsible for coordinating department Coffee 
 Hours throughout the school year. Coffee Hours are weekly, casual meetings that 
@@ -126,6 +167,7 @@ event, which will be a full-day department-wise event showcasing the great work
 done in our department. In particular, this student will work as the Program 
 Committee (PC) Chair for the research track of the event, which replaces our 
 former Graduate Student Workshop on Computing (GSWC). (updates coming)
+-->
 
 <h2 id="diversity_committee">Diversity Committee</h2>
  The Diversity Committee is responsible for coordinating outreach and diversity 

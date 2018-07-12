@@ -27,9 +27,9 @@ This committee is also respondible for most of the department events such as the
 and the annual barbecues! In short, the members of executive committee have direct visibility and a lot of 
 potential to positively impact the CS graduate student experience :).
 
-* [Executive Committee President](#gsa_representatives): Also represents the CS graduate students at GSA meetings.
-* [Executive Committee Treasurer](#events_committee) : Also co-lead the CS talks and events committee. 
-* [Executive Committee Secretary](#events_committee) : Also co-lead the CS talks and events committee
+* [Executive Committee President](#executive_committee): Also represents the CS graduate students at [GSA meetings](#gsa_representatives).
+* [Executive Committee Treasurer](#executive_committee) : Also co-lead the [CS talks and events committee](#coffee_hour_committee). 
+* [Executive Committee Secretary](#executive_committee) : Also co-lead the [CS talks and events committee](#coffee_hour_committee).
 
 The second group of positions deal with more internal department proceedings and ensuring that graduate student
 interests are represented in them.

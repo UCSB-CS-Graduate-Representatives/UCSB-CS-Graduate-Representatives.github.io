@@ -39,9 +39,8 @@ interests are represented in them.
 * [Graduate Admissions Committee](#grad_admissions_committee)	: Facilitating the graduate student recruitment process.
 * [Undergraduate Curriculum Committee](#undergrad_curriculum_committee) : Changes to undergraduate courses, class schedules etc
 * [Diversity Committee](#diversity_committee)	: Coordinating outreach and diversity efforts.
-
-<!-- * [CS Summit Committee](#department_day_committee) : Help with [CS summit](http://www.ucsb-cs-summit.com/)
-* [Facilities Committee](#facilities_committee) : Coordinate *facility-related* issues (rooms, grad lounge, etc) -->
+* [CS Summit Committee](#department_day_committee) : Help with [CS summit](http://www.ucsb-cs-summit.com/)
+<!--* [Facilities Committee](#facilities_committee) : Coordinate *facility-related* issues (rooms, grad lounge, etc) -->
 
 <!-- These representatives are elected each 
 year from the graduate student body. Additionally, representatives take 
@@ -87,14 +86,10 @@ Stays in close contact with the Student Affairs Manager.
 *Note that this is an executive position and the two Events rep also serves as the 
 executive committee treasurer and the secretary*
 
-<!--
 <h2 id="department_day_committee">CS Summit Committee</h2>
  This representative will work with faculty and staff in organization of the 
 event, which will be a full-day department-wise event showcasing the great work 
-done in our department. In particular, this student will work as the Program 
-Committee (PC) Chair for the research track of the event, which replaces our 
-former Graduate Student Workshop on Computing (GSWC). (updates coming)
--->
+done in our department.
 
 <h2 id="recruitment_committee">Recruitment Committee</h2>
 The Recruitment Committee representative participates in the recruitment of 
